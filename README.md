@@ -33,7 +33,7 @@ Aura is an experimental media controller that uses computer vision to allow hand
 
 1. **Clone the repository**:
    ```bash
-   git clone [url](https://github.com/godsonrubenga3-byte/aura/)
+   git clone https://github.com/godsonrubenga3-byte/aura/
    cd aura
    ```
 
